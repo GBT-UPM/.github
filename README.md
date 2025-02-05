@@ -35,7 +35,3 @@ El GBT está compuesto por un equipo multidisciplinar de 32 profesionales, inclu
 - **Sitio Web**: [http://www.gbt.tfo.upm.es](http://www.gbt.tfo.upm.es)
 
 Para más información sobre nuestras actividades y proyectos, no dudes en ponerte en contacto con nosotros o visitar nuestra página web.
-
----
-
-*Nota: Este texto está basado en información disponible en diversas fuentes relacionadas con el Grupo de Bioingeniería y Telemedicina de la UPM.*
